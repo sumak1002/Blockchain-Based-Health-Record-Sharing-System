@@ -1,0 +1,13 @@
+Complete Web Development with PHP/Mysql
+
+1. Html 5 / HTML
+2. CSS 3
+3. Javascript
+4. Jquery
+5. Bootstrap
+6. Mysql
+7. PHP
+8. Ajax
+9. Live Project
+10. Web Site Hosting and Domain.
+11. Seo (Search Engine Optimization)
